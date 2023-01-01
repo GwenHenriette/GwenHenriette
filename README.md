@@ -4,5 +4,3 @@ languages, from Java, Python, Javascripti, C, C++, C#, React Native and more.
 Here in my repository you will see me challenge myself by completing advanced projects, if you would like to use my solutions.
 Please do ask me first at email: gwendolynesweet@hotmail.com 
 
-Table of Contents: 
-
